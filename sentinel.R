@@ -120,5 +120,5 @@ sm_linear_30[sm_linear_30[]<0]<-0
 plot(sm_linear_30)
 sm_linear_30
 writeRaster(sm_linear_30,"sm_muliple regression.tif", format='GTiff')
-
+#comment
 
